@@ -1,0 +1,11 @@
+date,product,quantity,unit_price
+2025-09-01,Widget A,10,9.99
+2025-09-01,Widget B,5,19.99
+2025-09-02,Widget A,7,9.99
+2025-09-02,Widget C,3,29.99
+2025-09-03,Widget B,8,19.99
+2025-09-03,Widget C,4,29.99
+2025-09-04,Widget A,6,9.99
+2025-09-04,Widget B,2,19.99
+2025-09-05,Widget A,9,9.99
+2025-09-05,Widget C,1,29.99
