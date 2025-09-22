@@ -57,3 +57,5 @@ This project reads a CSV file, analyzes the data, creates a plot, and generates 
 - The sample dataset is small; replace `sales_data.csv` with your data (columns: date, product, quantity, unit_price).
 
 ## Output
+<img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/2cd8e48f-e610-4091-9b43-12c53afcc40c" />
+[sales_report.pdf](https://github.com/user-attachments/files/22475702/sales_report.pdf)
